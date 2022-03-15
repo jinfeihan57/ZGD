@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/zgd.jpg</file>
+    </qresource>
+</RCC>
